@@ -1,0 +1,6 @@
+git clone --repository--
+git status
+git add --file---
+git commit -m "the message we want "
+git push 
+
